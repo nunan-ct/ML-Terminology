@@ -6,7 +6,7 @@ a modern software development technique that enables computers to solve problems
 ## Supervised Learning
 every training sample from the dataset has a corresponding label or output value associated with it. As a result, the algorithm learns to predict labels or output values.
 
-## unsupervised learning
+## Unsupervised learning
 there are no labels for the training data. A machine learning algorithm tries to learn the underlying patterns or distributions that govern the data.
 
 ## Reinforcement Learning
